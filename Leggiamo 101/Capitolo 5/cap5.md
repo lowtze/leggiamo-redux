@@ -54,7 +54,9 @@ New structures presented in this chapter are:
 
 ## LO ZAFFERANO
 
-### Lo zafferano - Cap. 1 - La famiglia di Giovanna (Mini Story)
+### Lo zafferano - Cap. 1 - La famiglia di Giovanna (Mini Story) 
+
+<audio controls src="audio/LO ZAFFERANO - Capitolo 1 -La famiglia di Giovanna.mp3" title="Title"></audio>
 
 Giovanna è una ragazza veneziana.
 
@@ -72,6 +74,8 @@ Sia ad Antonio che a Luciana piace molto il lavoro. E tutti e due sono dei grand
 
 ### Lo zafferano - Cap. 1.2 - La famiglia di Giovanna (Extended Reading)
 
+<audio controls src="audio/LO ZAFFERANO - Capitolo 1.2 - Extended reading.mp3" title="Title"></audio>
+
 Giovanna è una ragazza veneziana. È nata a Murano, un’isola vicino a Venezia.
 
 Giovanna è una ragazza molto intelligente e ha molto talento. È figlia di Antonio e Luciana Gerotto. Antonio Gerotto ha una bottega e lavora il vetro[^5]. È un maestro vetraio. Murano è la città più importante per la lavorazione del vetro e Antonio è bravissimo. Murano sunset.
@@ -88,6 +92,8 @@ Quindi sia ad Antonio che a Luciana piace molto il lavoro. E tutti e due sono de
 
 ### Lo zafferano - Cap. 2 - Giovanna (Mini Story)
 
+<audio controls src="audio/LO ZAFFERANO - Capitolo 2 - Giovanna.mp3" title="Title"></audio>
+
 Giovanna è figlia unica. Nel 1566 ha sedici anni. È alta e forte. È una ragazza decisa. Ha le idee chiare: Giovanna vuole diventare maestra vetraia!
 Ma c’è un problema: i maestri vetrai sono tutti uomini e mai una ragazza ha lavorato il vetro. Ma Giovanna non è preoccupata da tutto questo.
 
@@ -100,6 +106,8 @@ Giovanna vuole creare delle figure bellissime usando tutti i colori possibili.
 
 
 ### Lo zafferano - Cap. 2 - Giovanna (Extended Reading)
+
+<audio controls src="audio/LO ZAFFERANO - Capitolo 2.2 - Extended reading.mp3" title="Title"></audio>
 
 Giovanna è figlia unica. Nel 1566 ha sedici anni. È alta e forte. È una ragazza decisa. Non è una ragazza debole. Sa quello che vuole. Ha le idee chiare: Giovanna vuole diventare maestra vetraia! Non vuole lavorare i merletti.
 
@@ -118,6 +126,8 @@ Vuole creare delle figure bellissime usando tutti i colori possibili. Vuole mesc
 
 ### Lo zafferano - Cap. 3 - La nascita di un’artista (Mini Story)
 
+<audio controls src="audio/LO ZAFFERANO - Capitolo 3 - La nascita di un_artista.mp3" title="Title"></audio>
+
 Negli anni tra il 1560 e il 1570 Giovanna frequenta la bottega di suo papà tutti i giorni. Antonio è un po’ preoccupato perché ha paura che Giovanna resti[^17] senza marito.
 Giovanna continua a e a migliorare[^18]. Le piace anche sperimentare con nuovi materiali per creare nuovi colori.
 Ma le piace giocare soprattutto con il giallo, l’arancione e il rosso. Vuole creare un colore intermedio tra il giallo e l’arancione ma non sa come fare. Ogni giorno, a colazione, pranzo e cena pensa a cosa mangia e poi usa i cibi per i colori del vetro.
@@ -127,6 +137,8 @@ Giovanna lo prova e il risultato è incredibile! Il colore è stupendo! È vivac
 
 
 ### Lo zafferano - Cap. 3 - La nascita di un’artista (Extended Reading)
+
+<audio controls src="audio/LO ZAFFERANO - Capitolo 3.2 - Extended reading.mp3" title="Title"></audio>
 
 Negli anni tra il 1560 e il 1570 Giovanna frequenta la bottega di suo papà tutti i giorni. Antonio è un po’ preoccupato perché ha paura che Giovanna resti[^21] senza marito. Ai giovani veneziani non piace una ragazza che pensa solo a lavorare il vetro. Ma Giovanna è davvero molto brava e ad Antonio piace passare il tempo ad insegnarle il lavoro. Inoltre, Giovanna è figlia unica. Antonio non ha un figlio maschio come erede[^22].
 
@@ -141,6 +153,8 @@ Giovanna lo prova e il risultato è incredibile! Il colore è stupendo! È vivac
 
 ### Lo zafferano - Cap. 4 - Una grande occasione di lavoro (Mini Story)
 
+<audio controls src="audio/LO ZAFFERANO - Capitolo 4 - Una grande occasione di lavoro.mp3" title="Title"></audio>
+
 Un giorno arriva alla bottega di suo papà un messaggero dell’arcivescovo[^27] di Milano. Il messaggero cerca vetrai per la costruzione della cattedrale di Milano: il Duomo.
 Giovanna sente il messaggero che parla con suo papà e immediatamente dice che vuole andare a Milano.
 Tutti parlano durante la cena.
@@ -149,6 +163,8 @@ Giovanna dice che vuole andare a Milano. È decisa. La mamma e il papà sono tri
 
 
 ### Lo zafferano - Cap. 4 - Una grande occasione di lavoro (Extended Reading)
+
+<audio controls src="audio/LO ZAFFERANO - Capitolo 4.2 - Extended reading.mp3" title="Title"></audio>
 
 Un giorno arriva alla bottega di suo papà un messaggero dell’arcivescovo[^29] di Milano. Il messaggero cerca vetrai per la costruzione della cattedrale di Milano: il Duomo.
 Giovanna sente il messaggero che parla con suo papà e immediatamente dice che vuole andare a Milano. Il papà è un po’ sorpreso.
@@ -161,6 +177,8 @@ La mamma e il papà sono tristi perché Giovanna è figlia unica. Se Giovanna va
 
 ### Lo zafferano - Cap. 5 - Al lavoro! (Mini Story)
 
+<audio controls src="audio/LO ZAFFERANO - Capitolo 5 - Al lavoro!.mp3" title="Title"></audio>
+
 A Milano Giovanna lavora con il vetraio belga Valerio di Fiandra. Lavora tantissimo ma le piace molto. Valerio all’inizio non crede che una ragazza possa fare la vetraia e non ha fiducia in lei. Ma quando vede il suo lavoro cambia idea. “È veramente brava!”.
 
 Quando viene a casa, suo papà e sua mamma preparano dei piatti deliziosi per celebrare il suo ritorno a casa. Un giorno preparano il fegato alla veneziana, che è fegatini[^32] con la cipolla. Papà Antonio invece prepara le melanzane alla parmigiana che a Giovanna piacciono tantissimo!
@@ -169,6 +187,8 @@ Intanto, (=meanwhile) il lavoro a Milano va avanti. Va avanti per diversi[^33] a
 
 
 ### Lo zafferano - Cap. 5 - Al lavoro! (Extended Reading)
+
+<audio controls src="audio/LO ZAFFERANO - Capitolo 5.2 - Extended reading.mp3" title="Title"></audio>
 
 A Milano Giovanna lavora con il vetraio belga Valerio di Fiandra. Lavora tantissimo ma le piace molto. Valerio all’inizio non crede che una ragazza possa fare la vetraia e non ha fiducia in lei. Ma quando vede il suo lavoro cambia idea. “È veramente brava!”.
 
@@ -183,6 +203,8 @@ Intanto, (=meanwhile) il lavoro a Milano va avanti. Va avanti per diversi[^36] a
 
 ### Lo zafferano - Cap. 6 - Una cena di gala (Mini Story)
 
+<audio controls src="audio/LO ZAFFERANO - Capitolo 6 - Una cena di gala.mp3" title="Title"></audio>
+
 Un giorno, a Milano c’è una festa in onore di Filippo II di Spagna. Giovanna è invitata. È l’occasione per conoscere[^37] gli architetti più importanti che lavorano al Duomo.
 
 La grande festa è al castello Visconteo. Alla grande festa c’è anche Valerio di Fiandra. Valerio e Giovanna sono seduti al tavolo con Pellegrino Tibaldi un pittore, scultore e architetto.
@@ -191,6 +213,8 @@ Valerio parla molto bene di[^38] Giovanna. A lui piacciono molto le vetrate che 
 
 
 ### Lo zafferano - Cap. 6 - Una cena di gala (Extended Reading)
+
+<audio controls src="audio/LO ZAFFERANO - Capitolo 6.2 - Extended reading.mp3" title="Title"></audio>
 
 Un giorno, a Milano c’è una festa in onore di Filippo II di Spagna. Milano, infatti, è sotto il dominio spagnolo in questo periodo.
 Giovanna è invitata. È l’occasione per conoscere gli architetti più importanti che lavorano al Duomo.
@@ -204,6 +228,8 @@ Giovanna e Pellegrino parlano tutta la notte insieme a Valerio e i tre diventano
 
 ### Lo zafferano - Cap. 7 - Un risotto speciale (Mini Story)
 
+<audio controls src="audio/LO ZAFFERANO - Capitolo 7 - Un risotto speciale.mp3" title="Title"></audio>
+
 Qualche mese dopo, è in programma il matrimonio[^43] della figlia di Valerio che si chiama Clotilde. Clotilde sposa un ragazzo di nome Filippo.
 Giovanna non sa cosa regalare agli sposi. Pensa, pensa ma non riesce a decidere. Poi alla fine ha un’idea: “Faccio un risotto con un bel color giallo!” e decide di mettere lo zafferano nel risotto! Proprio come aveva detto Valerio.
 
@@ -215,6 +241,8 @@ E così il risotto allo zafferano, chiamato anche risotto alla milanese, o risot
 
 
 ### Lo zafferano - Cap. 7 - Un risotto speciale (Extended Reading)
+
+<audio controls src="audio/LO ZAFFERANO - Capitolo 7.2 - Extended reading.mp3" title="Title"></audio>
 
 Qualche mese dopo, è in programma il matrimonio[^44] della figlia di Valerio che si chiama Clotilde. Clotilde sposa un ragazzo di nome Filippo.
 Giovanna non sa cosa regalare agli sposi. Pensa, pensa ma non riesce a decidere. Poi alla fine ha un’idea: “Faccio un risotto con un bel color giallo!” e decide di mettere lo zafferano nel risotto! Proprio come aveva detto Valerio.
