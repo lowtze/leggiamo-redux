@@ -56,7 +56,7 @@ New structures presented in this chapter are:
 
 ### Lo zafferano - Cap. 1 - La famiglia di Giovanna (Mini Story) 
 
-<audio controls src="audio/LO ZAFFERANO - Capitolo 1 -La famiglia di Giovanna.mp3" title="Title"></audio>
+<audio controls src="./audio/LO ZAFFERANO - Capitolo 1 -La famiglia di Giovanna.mp3" title="Title"></audio>
 
 Giovanna è una ragazza veneziana.
 
