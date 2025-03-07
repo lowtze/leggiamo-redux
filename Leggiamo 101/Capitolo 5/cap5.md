@@ -56,6 +56,8 @@ New structures presented in this chapter are:
 
 ### Lo zafferano - Cap. 1 - La famiglia di Giovanna (Mini Story) 
 
+![Audio](https://drive.google.com/open?id=1bUbSlDfGOB-yyUElqvU1DlOxrqPtw5Tb)
+
 Giovanna è una ragazza veneziana.
 
 Giovanna è una ragazza molto intelligente. È figlia di Antonio e Luciana Gerotto. Antonio Gerotto ha una bottega e lavora il vetro[^1].
