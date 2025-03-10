@@ -79,6 +79,7 @@ Giovanna è una ragazza molto intelligente e ha molto talento. È figlia di Anto
 Giovanna è affascinata dal talento del papà e passa ore e ore a guardarlo mentre lui lavora. Il papà lavora nella sua bottega[^6]. Suo papà crea con il vetro delle cose bellissime. Un cavallo[^7], un fiore[^8], una barca, niente è troppo difficile per suo papà.
 
 Tutta la città di Murano viene alla bottega per vedere le opere che fa Antonio. Antonio è molto famoso anche fuori Murano. A Venezia, Burano e Mestre tutti lo conoscono.
+
 Quando ci sono le fiere, molte persone vengono a Murano nella bottega di Antonio per comprare le suo opere fatte con il vetro. Ad Antonio piace molto il suo lavoro.
 
 Mamma Luciana è anche molto brava e famosa. Lei cuce i merletti[^9]. Lei non lavora il vetro ma cuce i merletti. Anche i merletti sono un prodotto veneziano molto famoso nel mondo. Specialmente sull’isola di Burano ci sono molte botteghe che producono merletti. Luciana va spesso a Burano per lavorare i merletti. Non lavora a Murano perché non ci sono botteghe dove lavorare i merletti. Ma a Burano sì. A Burano arrivano le stoffe[^10] che sono necessarie per fare i merletti più belli del mondo. E Luciana è una vera e propria artista. Anche a Luciana piace molto il suo lavoro. Repubblica di Venezia – Bandiera
@@ -95,6 +96,7 @@ Ma c’è un problema: i maestri vetrai sono tutti uomini e mai una ragazza ha l
 Suo papà è felice di vedere che a Giovanna piace il suo lavoro e, quando ha un attimo di tempo libero, insegna a Giovanna i segreti del mestiere. Giovanna impara velocemente. È bravissima.
 
 Giovanna non ha tanti amici ma uno dei suoi migliori amici è Francesco Manin.
+
 Francesco è figlio di Niccolò e Caterina. Adesso Francesco ha diciassette anni. Solo un anno in più di Giovanna. Francesco e Giovanna giocano sempre insieme. Sono buoni amici e Francesco ha una piccola cotta[^12] per Giovanna.
 
 Giovanna vuole creare delle figure bellissime usando tutti i colori possibili.
@@ -145,6 +147,7 @@ Giovanna lo prova e il risultato è incredibile! Il colore è stupendo! È vivac
 
 Un giorno arriva alla bottega di suo papà un messaggero dell’arcivescovo[^27] di Milano. Il messaggero cerca vetrai per la costruzione della cattedrale di Milano: il Duomo.
 Giovanna sente il messaggero che parla con suo papà e immediatamente dice che vuole andare a Milano.
+
 Tutti parlano durante la cena.
 
 Giovanna dice che vuole andare a Milano. È decisa. La mamma e il papà sono tristi perché Giovanna è figlia unica. Andare a Milano è una grande sfida[^28] ma sanno che Giovanna è veramente brava.
