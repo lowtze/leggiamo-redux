@@ -89,6 +89,7 @@ Quindi sia ad Antonio che a Luciana piace molto il lavoro. E tutti e due sono de
 ### Lo zafferano - Cap. 2 - Giovanna (Mini Story)
 
 Giovanna è figlia unica. Nel 1566 ha sedici anni. È alta e forte. È una ragazza decisa. Ha le idee chiare: Giovanna vuole diventare maestra vetraia!
+
 Ma c’è un problema: i maestri vetrai sono tutti uomini e mai una ragazza ha lavorato il vetro. Ma Giovanna non è preoccupata da tutto questo.
 
 Suo papà è felice di vedere che a Giovanna piace il suo lavoro e, quando ha un attimo di tempo libero, insegna a Giovanna i segreti del mestiere. Giovanna impara velocemente. È bravissima.
@@ -120,6 +121,7 @@ Vuole creare delle figure bellissime usando tutti i colori possibili. Vuole mesc
 
 Negli anni tra il 1560 e il 1570 Giovanna frequenta la bottega di suo papà tutti i giorni. Antonio è un po’ preoccupato perché ha paura che Giovanna resti[^17] senza marito.
 Giovanna continua a e a migliorare[^18]. Le piace anche sperimentare con nuovi materiali per creare nuovi colori.
+
 Ma le piace giocare soprattutto con il giallo, l’arancione e il rosso. Vuole creare un colore intermedio tra il giallo e l’arancione ma non sa come fare. Ogni giorno, a colazione, pranzo e cena pensa a cosa mangia e poi usa i cibi per i colori del vetro.
 
 Un giorno legge un libro sulla storia dei Fenici[^19]. Leggendo il libro Giovanna impara che i Fenici per creare un bel colore giallo usavano lo zafferano.
@@ -193,6 +195,7 @@ Valerio parla molto bene di[^38] Giovanna. A lui piacciono molto le vetrate che 
 ### Lo zafferano - Cap. 6 - Una cena di gala (Extended Reading)
 
 Un giorno, a Milano c’è una festa in onore di Filippo II di Spagna. Milano, infatti, è sotto il dominio spagnolo in questo periodo.
+
 Giovanna è invitata. È l’occasione per conoscere gli architetti più importanti che lavorano al Duomo.
 
 La grande festa è al castello Visconteo. Alla grande festa c’è anche Valerio di Fiandra. Valerio e Giovanna sono seduti al tavolo con Pellegrino Tibaldi un pittore, scultore e architetto. Pellegrino lavora al Duomo di Milano per otto anni, dal 1567 al 1585.
@@ -205,6 +208,7 @@ Giovanna e Pellegrino parlano tutta la notte insieme a Valerio e i tre diventano
 ### Lo zafferano - Cap. 7 - Un risotto speciale (Mini Story)
 
 Qualche mese dopo, è in programma il matrimonio[^43] della figlia di Valerio che si chiama Clotilde. Clotilde sposa un ragazzo di nome Filippo.
+
 Giovanna non sa cosa regalare agli sposi. Pensa, pensa ma non riesce a decidere. Poi alla fine ha un’idea: “Faccio un risotto con un bel color giallo!” e decide di mettere lo zafferano nel risotto! Proprio come aveva detto Valerio.
 
 Per secondo piatto, al pranzo di nozze servono un arrosto di manzo delizioso. Per contorno ci sono anche le patate arrosto. Per dolce c’è il tiramisù che piace tanto a Giovanna. E poi c’è anche il sorbetto al prosecco di Valdobbiadene. Un pranzo buonissimo.
@@ -217,9 +221,11 @@ E così il risotto allo zafferano, chiamato anche risotto alla milanese, o risot
 ### Lo zafferano - Cap. 7 - Un risotto speciale (Extended Reading)
 
 Qualche mese dopo, è in programma il matrimonio[^44] della figlia di Valerio che si chiama Clotilde. Clotilde sposa un ragazzo di nome Filippo.
+
 Giovanna non sa cosa regalare agli sposi. Pensa, pensa ma non riesce a decidere. Poi alla fine ha un’idea: “Faccio un risotto con un bel color giallo!” e decide di mettere lo zafferano nel risotto! Proprio come aveva detto Valerio.
 
 Valerio è sorpreso e felice. Anche Clotilde e Filippo sono felicissimi perché il risotto è buonissimo. Ed è anche bellissimo. Tutti gli invitati alla festa mangiano il risotto e bevono vino per festeggiare gli sposi. Il risotto allo zafferano è il primo piatto. Per secondo piatto, al pranzo di nozze servono un arrosto di manzo delizioso. Per contorno ci sono anche le patate arrosto. Per dolce c’è il tiramisù che piace tanto a Giovanna. E poi c’è anche il sorbetto al prosecco di Valdobbiadene. Un pranzo buonissimo.
+
 Poi, tutti gli invitati ballano. Tutti sono felici. Tutti si divertono molto.
 
 Tutti gli invitati chiedono a Giovanna come ha fatto il risotto perché vogliono farlo anche loro. “È un piatto delizioso!” dicono. “Lo vogliamo fare anche noi!”. “Mi piace tantissimo!”. “È anche giallo come l’oro! (=gold)”.
