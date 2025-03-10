@@ -7,22 +7,22 @@ Then, we will have a bigger story: La storia di Meb. This story has 4 chapters a
 
 Structures presented in Chapter 3 are:
 
-   * mi piace
-      * leggere, andare al cinema, visitare musei, cucinare, andare a teatro/ai concerti, giocare, studiare
-      * il cioccolato, la musica, la montagna, il mare
-   * mi piacciono
-      * molte cose
-      * gli e-book, i libri
-   * a me invece no! Neanche a me! Anche a me!
-   * scegliere
-   * preferisce
-   * vuole cambiare
-   * ama
-   * odio
-   * non sopporto
-   * cosa preferisci? Preferisco
-   * a tutti e due piace
-   * a nessuno dei due piace
+* mi piace
+   * leggere, andare al cinema, visitare musei, cucinare, andare a teatro/ai concerti, giocare, studiare
+   * il cioccolato, la musica, la montagna, il mare
+* mi piacciono
+   * molte cose
+   * gli e-book, i libri
+* a me invece no! Neanche a me! Anche a me!
+* scegliere
+* preferisce
+* vuole cambiare
+* ama
+* odio
+* non sopporto
+* cosa preferisci? Preferisco
+* a tutti e due piace
+* a nessuno dei due piace
 
 
 ## BRUNO E CARLA
